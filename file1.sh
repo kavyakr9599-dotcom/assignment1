@@ -7,4 +7,4 @@
  echo "sum is $sum"
  echo "time stamp $(date)" >> log
   echo "this is assignment"
-  echo " editted file"
+  echo "editted file"
