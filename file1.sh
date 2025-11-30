@@ -6,3 +6,4 @@
  done
  echo "sum is $sum"
  echo "time stamp $(date)" >> log
+ echo "this is assignment"
