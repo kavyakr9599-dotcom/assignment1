@@ -1,4 +1,3 @@
-kav
 #!/bin/bash
  sum=0
  for i in {1..20}
@@ -7,4 +6,4 @@ kav
  done
  echo "sum is $sum"
  echo "time stamp $(date)" >> log
-   
+  echo "this is assignment"
